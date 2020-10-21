@@ -9,4 +9,4 @@ FracFocus csv data: http://fracfocusdata.org/digitaldownload/FracFocusCSV.zip
 
 FracFocus sql data: http://fracfocusdata.org/digitaldownload/fracfocusdata.zip
 
-Not familiar with Python? Easy start with Anaconda package: https://www.anaconda.com/products/individual
+**Not familiar with Python?** Easy start with Anaconda package: https://www.anaconda.com/products/individual
