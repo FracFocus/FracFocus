@@ -1,7 +1,7 @@
 # DataDownload
-Downloading and creating local FracFocus SQLite database
+The FFcsvData2SQLite.ipynb will download the latest FracFocus database in csv format and create or update a local SQLite database "FF_data" for data analysis
 
-For exploring FracFocus.org data
+Data Source:
 
 FracFocus website: https://fracfocus.org/
 
